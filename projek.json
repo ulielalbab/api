@@ -1,4 +1,27 @@
 [
-  {"id": 1, "title": "Title 1"},
-  {"id": 2, "title": "Title 2"}
+  {
+    "id": 1,
+    "kode": "001",
+    "name": "PROJECT A"
+  },
+  {
+    "id": 2,
+    "kode": "002",
+    "name": "PROJECT B"
+  },
+  {
+    "id": 3,
+    "kode": "003",
+    "name": "PROJECT C"
+  },
+  {
+    "id": 4,
+    "kode": "004",
+    "name": "PROJECT D"
+  },
+  {
+    "id": 5,
+    "kode": "005",
+    "name": "PROJECT E"
+  }
 ]
